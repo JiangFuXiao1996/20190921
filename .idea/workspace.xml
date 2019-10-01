@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="231badd7-6016-4e90-bf3b-6185c158aa1a" name="Default Changelist" comment="网络编程">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Arquillian_JUnit_Release.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/src/main/java/网络编程/异步io/AIOClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/code/src/main/java/网络编程/异步io/AIOClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/src/main/java/网络编程/异步io/AIOServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/code/src/main/java/网络编程/异步io/AIOServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/target/classes/网络编程/BioClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/target/classes/网络编程/BioServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/target/classes/网络编程/NIOClient$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/target/classes/网络编程/NIOClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/target/classes/网络编程/NIOServer.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/code/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,32 +28,46 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="15" />
+          <entry key="java" value="16" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="15" />
+          <entry key="JAVA" value="16" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3850" />
+          <entry key="java" value="3858" />
           <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3850" />
+          <entry key="JAVA" value="3858" />
           <entry key="PLAIN_TEXT" value="10" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code/src/main/java/网络编程/异步io/AIOClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#completed#0;class#590:1373" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -93,8 +92,8 @@
         <option value="$PROJECT_DIR$/code/src/main/java/网络编程/AIOClient.java" />
         <option value="$PROJECT_DIR$/code/src/main/java/网络编程/BioClient.java" />
         <option value="$PROJECT_DIR$/code/src/main/java/网络编程/BioServer.java" />
-        <option value="$PROJECT_DIR$/code/src/main/java/网络编程/异步io/AIOClient.java" />
         <option value="$PROJECT_DIR$/code/src/main/java/网络编程/异步io/AIOServer.java" />
+        <option value="$PROJECT_DIR$/code/src/main/java/网络编程/异步io/AIOClient.java" />
       </list>
     </option>
   </component>
@@ -187,7 +186,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569927633918" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569928084713" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -303,7 +302,7 @@
       <updated>1569074605157</updated>
       <workItem from="1569074608195" duration="828000" />
       <workItem from="1569120723715" duration="5977000" />
-      <workItem from="1569905665532" duration="9422000" />
+      <workItem from="1569905665532" duration="9950000" />
     </task>
     <task id="LOCAL-00001" summary="网络编程">
       <created>1569925098403</created>
@@ -312,14 +311,22 @@
       <option name="project" value="LOCAL" />
       <updated>1569925098403</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="网络编程">
+      <created>1569927658788</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569927658788</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16227000" />
+    <option name="totallyTimeSpent" value="16755000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38803557" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -339,7 +346,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Statistic" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32768363" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32713756" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32956687" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -361,6 +368,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="网络编程" />
     <option name="LAST_COMMIT_MESSAGE" value="网络编程" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/code/src/A.java" />
@@ -464,10 +473,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/code/src/main/java/网络编程/异步io/AIOClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        <state relative-caret-position="418">
+          <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="method#completed#0;class#590:1373" expanded="true" />
           </folding>
         </state>
       </provider>
