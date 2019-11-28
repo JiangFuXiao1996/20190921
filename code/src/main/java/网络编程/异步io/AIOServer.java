@@ -23,8 +23,8 @@ public class AIOServer {
 
             @Override
             public void completed(AsynchronousSocketChannel result, Object attachment) {
-                try {AB
-                    System.out.println("11111AB");
+                try {
+                   
                     ByteBuffer buffer = ByteBuffer.wrap("Hello".getBytes());
                     Future<Integer> f = result.write(buffer);
                     f.get();
