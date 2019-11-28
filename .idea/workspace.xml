@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="231badd7-6016-4e90-bf3b-6185c158aa1a" name="Default Changelist" comment="网络编程">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/src/main/java/网络编程/异步io/AIOClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/code/src/main/java/网络编程/异步io/AIOClient.java" afterDir="false" />
+    <list default="true" id="231badd7-6016-4e90-bf3b-6185c158aa1a" name="Default Changelist" comment="网络编程0.1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/src/main/java/网络编程/异步io/AIOServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/code/src/main/java/网络编程/异步io/AIOServer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/code/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,35 +19,36 @@
     <session id="484840669">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="16" />
+          <entry key="java" value="17" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="16" />
+          <entry key="JAVA" value="17" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3858" />
-          <entry key="txt" value="10" />
+          <entry key="java" value="3870" />
+          <entry key="txt" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3858" />
-          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="JAVA" value="3870" />
+          <entry key="PLAIN_TEXT" value="14" />
         </counts>
       </usages-collector>
     </session>
@@ -55,13 +56,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/code/src/main/java/网络编程/异步io/AIOClient.java">
+        <entry file="file://$PROJECT_DIR$/code/src/main/java/网络编程/异步io/AIOServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+            <state relative-caret-position="241">
+              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#completed#0;class#590:1373" expanded="true" />
+                <element signature="method#failed#0;class#705:1421" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -92,8 +93,8 @@
         <option value="$PROJECT_DIR$/code/src/main/java/网络编程/AIOClient.java" />
         <option value="$PROJECT_DIR$/code/src/main/java/网络编程/BioClient.java" />
         <option value="$PROJECT_DIR$/code/src/main/java/网络编程/BioServer.java" />
-        <option value="$PROJECT_DIR$/code/src/main/java/网络编程/异步io/AIOServer.java" />
         <option value="$PROJECT_DIR$/code/src/main/java/网络编程/异步io/AIOClient.java" />
+        <option value="$PROJECT_DIR$/code/src/main/java/网络编程/异步io/AIOServer.java" />
       </list>
     </option>
   </component>
@@ -123,9 +124,9 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="949" />
-    <option name="width" value="980" />
-    <option name="height" value="1031" />
+    <option name="x" value="948" />
+    <option name="width" value="981" />
+    <option name="height" value="1032" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -186,7 +187,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569928084713" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574943947487" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -194,6 +195,116 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/code/src/main/java/网络编程/异步io/AIOServer.java</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -302,7 +413,8 @@
       <updated>1569074605157</updated>
       <workItem from="1569074608195" duration="828000" />
       <workItem from="1569120723715" duration="5977000" />
-      <workItem from="1569905665532" duration="9950000" />
+      <workItem from="1569905665532" duration="10363000" />
+      <workItem from="1574943486931" duration="459000" />
     </task>
     <task id="LOCAL-00001" summary="网络编程">
       <created>1569925098403</created>
@@ -318,17 +430,24 @@
       <option name="project" value="LOCAL" />
       <updated>1569927658788</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="网络编程0.1">
+      <created>1569928099001</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1569928099001</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16755000" />
+    <option name="totallyTimeSpent" value="17627000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38803557" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.39450282" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -346,8 +465,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Statistic" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32713756" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32956687" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.497979" weight="0.32713756" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.502021" side_tool="true" weight="0.32713756" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -358,6 +477,37 @@
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39450282" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32956687" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32806325" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Statistic" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.497979" weight="0.32713756" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.502021" side_tool="true" weight="0.32713756" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -367,7 +517,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="网络编程" />
-    <option name="LAST_COMMIT_MESSAGE" value="网络编程" />
+    <MESSAGE value="网络编程0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="网络编程0.1" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -380,25 +531,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="955">
           <caret line="88" column="20" selection-start-line="88" selection-start-column="20" selection-end-line="88" selection-end-column="20" />
-          <folding>
-            <element signature="method#main#0;class#TestObjectStream#0" expanded="true" />
-            <element signature="method#Student#0;class#Student#0" expanded="true" />
-            <element signature="method#Student#1;class#Student#0" expanded="true" />
-            <element signature="e#1232#1233#0" expanded="true" />
-            <element signature="e#1259#1260#0" expanded="true" />
-            <element signature="e#1299#1300#0" expanded="true" />
-            <element signature="e#1331#1332#0" expanded="true" />
-            <element signature="e#1358#1359#0" expanded="true" />
-            <element signature="e#1384#1385#0" expanded="true" />
-            <element signature="e#1419#1420#0" expanded="true" />
-            <element signature="e#1449#1450#0" expanded="true" />
-            <element signature="e#1481#1482#0" expanded="true" />
-            <element signature="e#1509#1510#0" expanded="true" />
-            <element signature="e#1551#1552#0" expanded="true" />
-            <element signature="e#1585#1586#0" expanded="true" />
-            <element signature="method#toString#0;class#Student#0" expanded="true" />
-            <element signature="method#readExternal#0;class#Student#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -406,12 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-110">
           <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding>
-            <element signature="method#main#0;class#TestClone#0" expanded="true" />
-            <element signature="method#Worker#0;class#Worker#0" expanded="true" />
-            <element signature="method#toString#0;class#Worker#0" expanded="true" />
-            <element signature="method#clone#0;class#Worker#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -461,23 +587,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/src/main/java/网络编程/异步io/AIOServer.java">
+    <entry file="file://$PROJECT_DIR$/code/src/main/java/网络编程/异步io/AIOClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+        <state relative-caret-position="418">
+          <caret line="41" column="33" lean-forward="true" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="method#completed#0;class#590:1373" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/src/main/java/网络编程/异步io/AIOClient.java">
+    <entry file="file://$PROJECT_DIR$/code/src/main/java/网络编程/异步io/AIOServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+        <state relative-caret-position="241">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#completed#0;class#590:1373" expanded="true" />
+            <element signature="method#failed#0;class#705:1421" expanded="true" />
           </folding>
         </state>
       </provider>
