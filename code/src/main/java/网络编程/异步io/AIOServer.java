@@ -24,6 +24,8 @@ public class AIOServer {
             @Override
             public void completed(AsynchronousSocketChannel result, Object attachment) {
                 try {
+
+
                     System.out.println("连接成功");
                     ByteBuffer buffer = ByteBuffer.wrap("Hello".getBytes());
                     Future<Integer> f = result.write(buffer);
