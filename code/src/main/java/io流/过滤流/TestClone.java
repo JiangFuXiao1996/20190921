@@ -28,6 +28,7 @@ public class TestClone {
         System.out.println(o1==o2);//true  两次读入是相同的对象
         //那么如何保证对象的内容相同但他们又是不同的对象(地址不同)
         //可以调用object.clone方法
+        System.out.println("连接成功");
 
         in.close();
 
